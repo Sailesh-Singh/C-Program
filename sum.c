@@ -1,4 +1,4 @@
-/*This Program is coded by Mr. Sailesh Singh
+/*This Program is coded by me (Mr. Sailesh Singh)
 You can follow and look after the work done by me on following links
 Github:
 Facebook:
@@ -6,12 +6,12 @@ linkedin:
 Date of creation:3/25/2020
 Please use this for learning purpose only.
 */
-#include <stdio.h>
-main()
+#include <stdio.h>	//Include basic input and output statements
+main()			    //int in the main function is return type
 {
- int a,b,c;
+ int a,b, sum;			// variable declaration
     printf("enter two numbers \n");
     scanf("%d%d",&a,&b);
-    c=a+b;
+    sum=a+b;						//functional block to calculate the sum 
     printf("The sum of %d and %d is %d",a,b,c);
 }
