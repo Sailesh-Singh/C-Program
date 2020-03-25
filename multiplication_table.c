@@ -12,6 +12,6 @@ void main()
 int i,num;
 printf("enter the number");
 scanf("%d",&num);
-for(i=1; i<=10; i++)
+for(i=1; i<=10; i++)		//looping statement for the iteration or repetion of same line of code.
 printf("%d*%d=%d\n",num,i,num*i);
 }
