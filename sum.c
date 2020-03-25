@@ -1,3 +1,11 @@
+/*This Program is coded by Mr. Sailesh Singh
+You can follow and look after the work done by me on following links
+Github:
+Facebook:
+linkedin:
+Date of creation:
+Please use this for learning purpose only.
+*/
 #include <stdio.h>
 main()
 {
