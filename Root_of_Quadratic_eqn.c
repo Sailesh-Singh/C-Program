@@ -2,6 +2,11 @@
 #include <math.h>
 int main() 
 {
+	// rp = realPart
+	// ip = imaginaryPart
+	// r1 = First root
+	// r2 = Second root
+	// d  = Discrminant
     double a, b, c, d, r1, r2, rp, ip;
     printf("Enter coefficients a, b and c: ");
     scanf("%lf %lf %lf", &a, &b, &c);
@@ -24,7 +29,5 @@ int main()
     }
     return 0;
 }
-
-
 
 
