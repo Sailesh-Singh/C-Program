@@ -16,22 +16,6 @@ int main()
         for(d = 0; d < n; d++)   			// to iterate the columns
             scanf("%d", &second[c][d]);
 
-    //finding the SUM of the two matrices
-    for(c = 0; c < m; c++)
-        for(d = 0; d < n; d++)
-            sum[c][d] = first[c][d] + second[c][d];
-
-    // printing the elements of the sum matrix
-    printf("\n\nThe sum of the two entered matrices is: \n\n");
-    for(c = 0; c < m; c++)
-    {
-        for(d = 0; d < n; d++)
-        {
-            printf("%d\t", sum[c][d]);
-        }
-        printf("\n");
-    }
-    
     //    finding the DIFFERENCE of the two matrices
     for(c = 0; c < m; c++)
         for(d = 0; d < n; d++)
