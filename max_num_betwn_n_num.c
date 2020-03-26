@@ -1,7 +1,6 @@
 /*This Program is coded by Mr. Sailesh Singh
 You can follow and look after the work done by me on following links
 Github:	  https://github.com/Sailesh-Singh
-Facebook: https://www.facebook.com/saileshsingh36
 linkedin: https://www.linkedin.com/in/saileshsingh36
 Date of creation:3/26/2020
 Please use this for learning purpose only.
