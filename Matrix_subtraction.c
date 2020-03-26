@@ -3,7 +3,7 @@
 int main()
 {
     printf("\t\tProgram by Sailesh Singh\n\n");
-    int n, m, c, d, first[10][10], second[10][10], sum[10][10], diff[10][10];
+    int n, m, c, d, first[10][10], second[10][10], diff[10][10];
     printf("\nEnter the number of rows and columns of the first matrix\n");
     scanf("%d%d", &m, &n);
 
