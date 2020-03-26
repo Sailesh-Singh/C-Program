@@ -1,17 +1,15 @@
-#include<stdio.h>
-
-int main()
+#include<stdio.h>		//Include basic input and output statements
+int main()		    	//int in the main function is return type
 {
-    printf("\t\tProgram by Sailesh Singh\n\n");
-    int n, m, c, d, first[10][10], second[10][10], diff[10][10];
+    int n, m, c, d, first[10][10], second[10][10], diff[10][10];  //variable declaration for integer type also using array
     printf("\nEnter the number of rows and columns of the first matrix\n");
     scanf("%d%d", &m, &n);
 
-    printf("Enter the %d elements of the first matrix \n", m*n);
+    printf("Enter the %d elements of the first matrix \n", m*n); 	//first elements of matrix
     for(c = 0; c < m; c++)   				// to iterate the rows
         for(d = 0; d < n; d++)   			// to iterate the columns
             scanf("%d", &first[c][d]);
-    printf("\nEnter the %d elements of the second matrix\n", m*n);
+    printf("\nEnter the %d elements of the second matrix\n", m*n);	//second elements of matrix
     for(c = 0; c < m; c++)   				// to iterate the rows
         for(d = 0; d < n; d++)   			// to iterate the columns
             scanf("%d", &second[c][d]);
@@ -31,7 +29,5 @@ int main()
         }
         printf("\n");
     }
-    printf("\t\t\tC is fun!");
-    printf("\n\t\t\t---------");
     return 0;
     }
