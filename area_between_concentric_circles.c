@@ -1,12 +1,10 @@
-#include<stdio.h>
-main()
+#include<stdio.h>		//Include basic input and output statements
+void main()			    //void in the main function is non-return type
 {
-float r,R,a,A;
-printf("enter the first radius");
-scanf("%f",&r);
-printf("enter the second radius");
-scanf("%f",&R);
-a=3.14*r*r;
-A=3.14*R*R;
-printf("the area between the concentric circle is %f%f",a,A);
+	float r,R,a,A;  	//variable declaration for float type
+	printf("Enter the first and second radii");
+	scanf("%f",&r,&R);
+	a=3.14*r*r;				//Area of small circle
+	A=3.14*R*R;				//Area of the big circle
+	printf("The area between the concentric circle is %f and %f",a,A); //Printing the result
 }
