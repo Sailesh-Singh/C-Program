@@ -6,7 +6,7 @@ Date of creation:3/27/2020
 Please use this for learning purpose only.
 */
 #include <stdio.h>		//Include basic input and output statements
-int main()	 	   		//void in the main function is non-return type
+int main()	 	   		//int in the main function is return type
 {
     int week;			//variable declaration for integer type
     printf("Enter week number(1-7): ");
