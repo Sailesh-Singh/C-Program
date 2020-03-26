@@ -8,7 +8,7 @@ Please use this for learning purpose only.
 #include<stdio.h>		//Include basic input and output statements
 int main() 		    	//int in the main function is return type
 {
-    int n, m, c, d, first[10][10], second[10][10], diff[10][10];  //variable declaration for integer type also using array
+    int n, m, c, d, first[10][10], second[10][10], sum[10][10];  //variable declaration for integer type also using array
     printf("\nEnter the number of rows and columns of the first matrix\n");
     scanf("%d%d", &m, &n);
 
