@@ -1,8 +1,8 @@
 
-#include <stdio.h>
-int main()
+#include <stdio.h>		//Include basic input and output statements
+int main() 	   			//int in the main function is return type
 {
-int num;
+int num;				//variable declaration for integer type
 printf(" Enter your mark ");
 scanf("%d",&num);
 printf(" You entered %d\n", num); // printing outputs
