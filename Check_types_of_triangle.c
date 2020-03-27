@@ -2,7 +2,7 @@
 void main()
 {
 	int a,b,c;
-	long int sum=1;
+//	long int sum=1;
 	printf("enter the three side of triangle:\t");
 	scanf("%d%d%d",&a,&b,&c);
 	//conditions to check the types of triangle 
