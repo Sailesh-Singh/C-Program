@@ -12,7 +12,7 @@ void main()
 	{
 		printf("The triangle is not valid");
 	}
-	if(a*a==b*b+c*c || b*b==a*a+c*c || c*c==a*a+b*b)
+	else if(a*a==b*b+c*c || b*b==a*a+c*c || c*c==a*a+b*b)
 	{
 		printf("The triangle is right angle triangle");
 	}
@@ -20,14 +20,15 @@ void main()
 	{
 	    printf("The triangle is not right angle");
 	}
-	if(a==b || b==c || a==c)
+	else if(a==b || b==c || a==c)
 	{
 		printf("The triangle is isosceles");
 	}
-	else{
+	else
+	{
 	    printf("The triangle is not isosceles");
 	}
-	if(a==b && b==c && a==c)
+	else if(a==b && b==c && a==c)
 	{
 		printf("The triangle is equilateral");
 	}
