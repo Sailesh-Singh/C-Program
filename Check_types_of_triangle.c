@@ -1,7 +1,7 @@
-#include<stdio.h>
-void main()
+#include<stdio.h>			//Include basic input and output statements
+void main() 		    	//void in the main function is non-return type
 {
-	int a,b,c;
+	int a,b,c;				//variable declaration for integer type
 	printf("enter the three side of triangle:\t");
 	scanf("%d%d%d",&a,&b,&c);
 	//conditions to check the types of triangle 
