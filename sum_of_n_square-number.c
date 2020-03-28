@@ -19,5 +19,3 @@ void main()		 	   	//void in the main function is non-return type
     } 
 	printf("Sum of %d square numbers =%d\n",n, sum);
 }
-
-
