@@ -5,6 +5,7 @@ linkedin: https://www.linkedin.com/in/saileshsingh36
 Date of creation:3/27/2020
 Please use this for learning purpose only.
 */
+//Program to find second largest number between three numbers
 #include<stdio.h>		//Include basic input and output statements
 void main()				//void in main function is non-return type
 {

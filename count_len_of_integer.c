@@ -5,6 +5,7 @@ linkedin: https://www.linkedin.com/in/saileshsingh36
 Date of creation:3/28/2020
 Please use this for learning purpose only.
 */
+//Program to count the number of digits entered by user
 #include<stdio.h>		//Include basic input and output statements
 void main()		  		//void in the main function is non-return type
 {

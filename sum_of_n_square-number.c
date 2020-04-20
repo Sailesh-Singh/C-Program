@@ -5,6 +5,7 @@ linkedin: https://www.linkedin.com/in/saileshsingh36
 Date of creation:3/28/2020
 Please use this for learning purpose only.
 */
+//Program to find the sum of n square number without using direct formula
 #include <stdio.h>		//Include basic input and output statements
 void main()		 	   	//void in the main function is non-return type
 {

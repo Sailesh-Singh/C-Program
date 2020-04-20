@@ -5,12 +5,14 @@ linkedin: https://www.linkedin.com/in/saileshsingh36
 Date of creation:3/26/2020
 Please use this for learning purpose only.
 */
+//Program to check the maximum number between "n" number
 #include<stdio.h>		//Include basic input and output statements
 void main()			    //void in the main function is non-return type
 {
 int value[5],i,max,n;  	//variable declaration for integer type
-printf("How many number you wan to check?: ");
+printf("How many number you want to check?: ");
 scanf("%d",&n);
+int value[n];
 	for(i=1; i<=n; i++)
 	{
 		printf("enter the number");

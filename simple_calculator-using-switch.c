@@ -5,6 +5,7 @@ linkedin: https://www.linkedin.com/in/saileshsingh36
 Date of creation:3/27/2020
 Please use this for learning purpose only.
 */
+//Program to make Simple Calculator operations using switch function 
 #include<stdio.h>		//Include basic input and output statements
 int main()		 	    //void in the main function is non-return type
 {

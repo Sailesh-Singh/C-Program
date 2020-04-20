@@ -5,6 +5,7 @@ linkedin: https://www.linkedin.com/in/saileshsingh36
 Date of creation:3/25/2020
 Please use this for learning purpose only.
 */
+//Program to display wether the given number is odd or even
 #include<stdio.h>		//Include basic input and output statements
 void main()			    //void in the main function is non-return type
 {

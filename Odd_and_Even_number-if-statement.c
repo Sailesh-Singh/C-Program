@@ -5,6 +5,7 @@ linkedin: https://www.linkedin.com/in/saileshsingh36
 Date of creation:3/26/2020
 Please use this for learning purpose only.
 */
+//Program to check the given number wether it is odd or even
 #include<stdio.h>		//Include basic input and output statements
 void main()			    //void in the main function is non-return type
 {
@@ -14,10 +15,10 @@ void main()			    //void in the main function is non-return type
 	//Starting of conditional block using if else statement
 	if(num%2==0) // Checks number exactly divisibl by 2
 	{
-		printf("the number is even");
+		printf("The number is even");
 	}
 	else
 	{
-		printf("the num is odd");
+		printf("The num is odd");
 	}
 }

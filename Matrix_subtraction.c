@@ -5,6 +5,7 @@ linkedin: https://www.linkedin.com/in/saileshsingh36
 Date of creation:3/27/2020
 Please use this for learning purpose only.
 */
+//Program to calculate the matrix subtraction (Using multidimensional(2D) array)
 #include<stdio.h>		//Include basic input and output statements
 int main()		    	//int in the main function is return type
 {
@@ -37,4 +38,4 @@ int main()		    	//int in the main function is return type
         printf("\n");
     }
     return 0;
-    }
+}

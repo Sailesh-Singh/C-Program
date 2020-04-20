@@ -5,6 +5,7 @@ linkedin: https://www.linkedin.com/in/saileshsingh36
 Date of creation:3/27/2020
 Please use this for learning purpose only.
 */
+//Program to display week name using if_elseif statement
 #include <stdio.h>		//Include basic input and output statements
 int main()  	   		//int in the main function is return type
 {

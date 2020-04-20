@@ -5,6 +5,7 @@ linkedin: https://www.linkedin.com/in/saileshsingh36
 Date of creation:3/26/2020
 Please use this for learning purpose only.
 */
+//Program to use comparator operator to check the relation between any two numbers
 #include <stdio.h>				//Include basic input and output statements
 int main()						//int in the main function is return type 
 {

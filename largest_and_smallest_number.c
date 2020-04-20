@@ -5,6 +5,7 @@ linkedin: https://www.linkedin.com/in/saileshsingh36
 Date of creation:3/27/2020
 Please use this for learning purpose only.
 */
+//Program to find largest and smallest number among three numbers
 #include <stdio.h>		//Include basic input and output statements
 int main()				//int in main function is return type
 {

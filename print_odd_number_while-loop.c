@@ -5,12 +5,13 @@ linkedin: https://www.linkedin.com/in/saileshsingh36
 Date of creation:3/28/2020
 Please use this for learning purpose only.
 */
+//Program to print odd numbers up to n
 #include <stdio.h>		//Include basic input and output statements
 int main()	    		//int in the main function is return type
 {
     int i, n; 			//variable declaration for integer type
     scanf("%d", &n);
-    printf("Print all odd numbers from %d to n :",n);
+    printf("Print all odd numbers from %d to n :\n",n);
     i=1;       //Value assigning
 //    Begining of logical and functional block using while loop
     while(i<=n)

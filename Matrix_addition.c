@@ -5,6 +5,7 @@ linkedin: https://www.linkedin.com/in/saileshsingh36
 Date of creation:3/26/2020
 Please use this for learning purpose only.
 */
+//Programs to find the sum of two matrices (Using multidimensional(2D) array)
 #include<stdio.h>		//Include basic input and output statements
 int main() 		    	//int in the main function is return type
 {
