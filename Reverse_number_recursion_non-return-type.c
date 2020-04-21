@@ -7,7 +7,7 @@ Please use this for learning purpose only.
 */
 //Program to reverse the number using using recursion;non-return type
 #include<stdio.h>					//Include basic input and output statements
-void reverse()   					//int in the main function is return type
+void reverse()   					//void in the main function is non-return type
 {
     int n, rev=0;    		//variable declaration for integer type
     printf("Enter the number: ");
