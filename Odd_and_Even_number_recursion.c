@@ -17,5 +17,5 @@ int main()		        //int in the main function is return type
 // Intialization of sub-function
 void oddeven(int a)                        
 {													
-    a%2==0?printf("its even"):printf("Its Odd"); // Conditional operator to check the condition for odd and even  
+    a%2==0?printf("Its even"):printf("Its Odd"); // Conditional operator to check the condition for odd and even  
 }										
