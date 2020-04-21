@@ -6,20 +6,20 @@ Date of creation:4/21/2020
 Please use this for learning purpose only.
 */
 //Program to reverse the number using using recursion;non-return type
-#include<stdio.h>
-void reverse()
+#include<stdio.h>					//Include basic input and output statements
+void reverse()   					//int in the main function is return type
 {
-    int n, rev=0, sum=0;
+    int n, rev=0;    		//variable declaration for integer type
     printf("Enter the number: ");
     scanf("%d",&n);
-	while(n>0)
-	{
-		sum=sum*10+n%10;
-		n=n/10;
-	}
-	printf("The reverse number is %d",sum);
+	while(n>0)				//.
+	{							//.
+		rev=rev*10+n%10;			//--> Conditional, functional and logical block of code
+		n=n/10;					//.
+	}						//.
+	printf("The reverse number is %d",rev);	//Printing the result
 }
-	
+// Intializing sub-function	
 void main()
 {
     reverse();
