@@ -5,6 +5,7 @@ linkedin: https://www.linkedin.com/in/saileshsingh36
 Date of creation:4/21/2020
 Please use this for learning purpose only.
 */
+//Program to check wether the given number is Odd or Even using recursion and using ternary operator
 #include <stdio.h>
 int main()
 {
