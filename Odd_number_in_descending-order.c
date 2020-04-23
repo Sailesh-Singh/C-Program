@@ -9,7 +9,7 @@ Please use this for learning purpose only.
 #include <stdio.h>		//Include basic input and output statements
 void main()	 	  	 	//void in the main function is non-return type
 {
-    int n, i, sum = 0;	//variable declaration for integer type
+    int n, i;			//variable declaration for integer type
     do 
 	{
         printf("Enter a positive integer: ");
