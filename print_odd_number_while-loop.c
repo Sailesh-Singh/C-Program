@@ -11,7 +11,7 @@ int main()	    		//int in the main function is return type
 {
     int i, n; 			//variable declaration for integer type
     scanf("%d", &n);
-    printf("Print all odd numbers from %d to n :\n",n);
+    printf("Print all odd numbers from 1 to %d :\n",n);
     i=1;       //Value assigning
 //    Begining of logical and functional block using while loop
     while(i<=n)
