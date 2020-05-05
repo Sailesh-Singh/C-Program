@@ -1,3 +1,10 @@
+/*This Program is coded by Mr. Sailesh Singh
+You can follow and look after the work done by me on following links
+Github:	  https://github.com/Sailesh-Singh
+linkedin: https://www.linkedin.com/in/saileshsingh36
+Date of creation:05/05/2020
+Please use this for learning purpose only.
+*/
 //Program to check wether the number is prime or not and find the imaginary root if it is imaginary
 #include<stdio.h>					//Include basic input and output statements
 #include<math.h>					//Include mathematical functions like sqrt,pow,trignometric functions etc.
