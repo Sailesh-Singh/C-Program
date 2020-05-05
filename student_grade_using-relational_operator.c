@@ -17,7 +17,7 @@ printf(" You entered %d\n", num); // printing outputs
 	{
 	printf(" You got A grade"); // printing outputs
 	}
-	else if ( num >=60) // Note the space between else & if
+	else if ( num >=60) // Note there is space between else & if
 	{
 	printf(" You got B grade");
 	}
