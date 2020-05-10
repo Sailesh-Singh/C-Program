@@ -17,21 +17,15 @@ int main()		    	//int in the main function is return type
     //Declaration of elements of first matrix	
 	printf("Enter %d elements of first matrix \n",row*column);
 	for(i=0;i<row;i++)   				//  iterate the row and increase the value of 'i' by +1
-	{
 		for(j=0;j<column;j++)   		//  iterate the columns and increase the value of 'j' by +1
-		{
 			scanf("%d",&a[i][j]);		// scan rows and columns of matrix
-		}
-	}
+			
 	//Declaration of elements of second matrix
 	printf("Enter %d elements of second matrix\n",row*column);
 	for(i=0;i<row;i++)   				//  iterate the row and increase the value of 'i' by +1
-	{
 		for(j=0;j<column;j++)   		//  iterate the columns and increase the value of 'j' by +1
-		{
 			scanf("%d",&b[i][j]);		// scan rows and columns of matrix
-		}
-	}
+			
 	//Logic for adding two matrices and Printing the result of Sum of two matrices
 	printf("\nSum of entered matrices : \n");
     for(i=0;i<row;i++)
