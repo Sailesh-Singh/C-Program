@@ -6,12 +6,13 @@ Date of creation:5/21/2020
 Please use this for learning purpose only.
 */
 //Program to print the greatest number using ternary operator
-#include<stdio.h>
-int main()
+#include<stdio.h>		//Include basic input and output statements
+int main()	    		//void in the main function is non-return type
 {
-	int a,b;
+	int a,b; 			//variable declaration for integer type
 	printf("Enter two numbers:\n");
 	scanf("%d%d",&a,&b);
-	(a>b)?printf("%d is greatest\n",a):printf("%d is greatest\n",b);
-	return 0;
+	//condition? expression 1:expression2
+	(a>b)?printf("%d is greatest\n",a):printf("%d is greatest\n",b);//checking condition and printing result
+	return 0;//return for int type
 }

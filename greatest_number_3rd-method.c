@@ -7,7 +7,7 @@ Please use this for learning purpose only.
 */
 //Program to find greatest number among three numbers
 #include <stdio.h>		//Include basic input and output statements
-void main()		    	//int in the main function is return type
+void main()		    	//void in the main function is non-return type
 {
 	int n1,n2,n3;  		//variable declaration for integer type
 	printf("\nEnter 3 numbers: ");

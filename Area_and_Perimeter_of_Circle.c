@@ -1,9 +1,8 @@
 /*This Program is coded by Mr. Sailesh Singh
 You can follow and look after the work done by me on following links
-Github:
-Facebook:
-linkedin:
-Date of creation:3/25/2020
+Github:	  https://github.com/Sailesh-Singh
+linkedin: https://www.linkedin.com/in/saileshsingh36
+Date of creation:3/28/2020
 Please use this for learning purpose only.
 */
 //Program to find the Area and perimeter of circle
