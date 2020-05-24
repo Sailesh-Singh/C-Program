@@ -1,3 +1,10 @@
+/*This Program is coded by Mr. Sailesh Singh
+You can follow and look after the work done by me on following links
+Github:	  https://github.com/Sailesh-Singh
+linkedin: https://www.linkedin.com/in/saileshsingh36
+Date of creation:5/25/2020
+Please use this for learning purpose only.
+*/
 //Program to inclusively OR two unsigned integers
 #include <stdio.h>		//Include basic input and output statements		
 int main(void)			//int in the main function is return type	
