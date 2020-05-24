@@ -13,7 +13,7 @@ unsigned int a;			//unsigned int is variable declaration of integer type without
 int c;					//variable declaration for integer type												
 printf("Enter a unsigned integers:\n");
 scanf("%d",&a);
-c = ~a;  /* Converts a and b into binary then perform inclusive OR*/  
+c = ~a;  /* Converts a and b into binary then find not*/  
 printf("~%d = %d\n", a, c );
 return 0;
 }
