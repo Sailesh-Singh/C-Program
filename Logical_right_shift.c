@@ -15,7 +15,7 @@ printf("Enter the unsigned integer:\n");
 scanf("%d",&a);			//scaning integer for shifting
 printf("Enter the number by which %d should be shifted:\n",a);
 scanf("%d",&n);			//scaning a integer by which integer is shifted 
-c = a << n;				//condition for shifiting 'a' integer by 'n' digit in right side
+c = a >> n;				//condition for shifiting 'a' integer by 'n' digit in right side
 printf("%d >> %d = %d\n",a,n,c);//printing the result
 return 0;
 }
