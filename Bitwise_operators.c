@@ -1,4 +1,11 @@
-/*Bitwise operators can be used to perform bit level operation on variables.
+/*This Program is coded by Mr. Sailesh Singh
+You can follow and look after the work done by me on following links
+Github:	  https://github.com/Sailesh-Singh
+linkedin: https://www.linkedin.com/in/saileshsingh36
+Date of creation:5/31/2020
+Please use this for learning purpose only.
+
+Bitwise operators can be used to perform bit level operation on variables.
 Below is a list of all six bitwise operators supported in C:
 Symbol Operator
 & bitwise AND
