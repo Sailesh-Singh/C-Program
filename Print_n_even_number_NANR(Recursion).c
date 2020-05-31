@@ -1,3 +1,10 @@
+/*This Program is coded by Mr. Sailesh Singh
+You can follow and look after the work done by me on following links
+Github:	  https://github.com/Sailesh-Singh
+linkedin: https://www.linkedin.com/in/saileshsingh36
+Date of creation:5/31/2020
+Please use this for learning purpose only.
+*/
 //Program to print 'n' even number with NANR(no argument and no return)
 #include<stdio.h>
 #include<stdio.h>		//Include basic input and output statements
