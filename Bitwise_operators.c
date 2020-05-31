@@ -9,19 +9,19 @@ Symbol Operator
 >> logical right sgihift
 Following program illustrates the use of all bitwise operators:*/
 //Program to illustrate the use all bitwise operators
-#include <stdio.h>
-int main(void)
+#include <stdio.h>		//Include basic input and output statements
+int main(void)			//int in the main function is return type
 {
-unsigned int a ; /* 29 = 0001 1101 */
+unsigned int a ; /* 29 = 0001 1101 */ 			//unsigned int is variable declaration of integer type without any sign
 unsigned int b ; /* 48 = 0011 0000 */
-int c,n;
+int c,n;										//variable declaration for integer type		
 printf("Enter the two unsigned integers:\n");
 scanf("%d%d",&a,&b);
-c = a & b; /* 32 = 0001 0000 */
+c = a & b; /* Converts a and b into binary then perform ANDing 32 = 0001 0000 */
 printf("%d & %d = %d\n", a, b, c );
-c = a | b; /* 61 = 0011 1101 */
+c = a | b; /* Converts a and b into binary then perform ORing/* 61 = 0011 1101 */
 printf("%d | %d = %d\n", a, b, c );
-c = a ^ b; /* 45 = 0010 1101 */
+c = a ^ b; /*Converts a and b into binary then perform exclusive ORing 45 = 0010 1101 */
 printf("%d ^ %d = %d\n", a, b, c );
 c = ~a; /* -30 = 1110 0010 */
 printf("~%d = %d\n\n", a, c );
