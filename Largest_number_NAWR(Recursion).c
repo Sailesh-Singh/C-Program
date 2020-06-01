@@ -1,19 +1,20 @@
 //Program to print the largest number using NAWR(No argument and with return type)
-#include<stdio.h>
-int greater()
+#include<stdio.h>		//Include basic input and output statements
+int greater() 			//Intialilzing sub-function greater()
 {
-	int a,b,largest;
+	int a,b,largest;	//variable declaration for integer type
 	printf("Enter two numbers:\n");
 	scanf("%d%d",&a,&b);
-	if(a>b)
+/*checking the condition using if_else*/	
+	if(a>b)				
 		largest=a;
 	else
 		largest=b;
-	return largest;
+	return largest;		//Returning the true condition value to main function
 }
-int main()
+int main()			//int in main function is return type
 {
-    int result;
-	result=greater();
-	printf("%d is result\n",result);
+    int result;		//variable declaration for integer type
+	result=greater(); //calling sub-fuunction and storing its return value to result
+	printf("%d is result\n",result); // Printing the result value
 }
