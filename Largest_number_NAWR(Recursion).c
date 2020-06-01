@@ -23,5 +23,5 @@ int main()			//int in main function is return type
 {
     int result;		//variable declaration for integer type
 	result=greater(); //calling sub-fuunction and storing its return value to result
-	printf("%d is result\n",result); // Printing the result value
+	printf("%d is greater\n",result); // Printing the result value
 }
