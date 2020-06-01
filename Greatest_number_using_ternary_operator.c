@@ -7,7 +7,7 @@ Please use this for learning purpose only.
 */
 //Program to print the greatest number using ternary operator
 #include<stdio.h>		//Include basic input and output statements
-int main()	    		//void in the main function is non-return type
+int main()	    		//int in the main function is return type
 {
 	int a,b; 			//variable declaration for integer type
 	printf("Enter two numbers:\n");

@@ -1,3 +1,10 @@
+/*This Program is coded by Mr. Sailesh Singh
+You can follow and look after the work done by me on following links
+Github:	  https://github.com/Sailesh-Singh
+linkedin: https://www.linkedin.com/in/saileshsingh36
+Date of creation:6/1/2020
+Please use this for learning purpose only.
+*/
 //Program to print the largest number using NAWR(No argument and with return type)
 #include<stdio.h>		//Include basic input and output statements
 int greater() 			//Intialilzing sub-function greater()
