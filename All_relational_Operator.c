@@ -13,7 +13,7 @@ int main()				//int in the main function is return type
 	printf("Enter the two numbers:\t");
 	scanf("%d%d",&a,&b);//scaning two numbers from the user
 	//Conditional check using if
-	if (a!=b)
+	if (a!=b)//logcal not
 	{
 	printf("%d is not equal to %d\n",a,b);
 		//if conditional check inside the if condition
