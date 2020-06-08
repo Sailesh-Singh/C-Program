@@ -1,3 +1,10 @@
+/*This Program is coded by Mr. Sailesh Singh
+You can follow and look after the work done by me on following links
+Github:	  https://github.com/Sailesh-Singh
+linkedin: https://www.linkedin.com/in/saileshsingh36
+Date of creation:6/8/2020
+Please use this for learning purpose only.
+*/
 //Program to find addition of two user defined matrices (multidimensional(2D) array)
 #include<stdio.h>
 int main()
