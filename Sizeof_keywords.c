@@ -78,4 +78,3 @@ void main()		 	   	//void in the main function is non-return type
 	//	printf("Size of volatile: %d bytes\n", sizeof(volatileType));
 	//	printf("Size of while: %d bytes\n", sizeof(whileType));
 }
-
