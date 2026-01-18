@@ -23,3 +23,4 @@ void main()				//void in the main function is non-return type
     printf("a%b=%d",rem);			//
     printf("a/b=%d\n",div);///////////
 }
+// end of program 
